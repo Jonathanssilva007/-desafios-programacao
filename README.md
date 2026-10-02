@@ -8,7 +8,9 @@
 
 Criação de uma estrutura básica utilizando HTML.| 
 Aprovado |
-Imagem(./prints/print_01.png) |
+## Imagem Comprobatória
+
+![Comprovação do exercício](./Aprovado.png)
 
 
 ## Resumo dos Conceitos Praticados
